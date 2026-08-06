@@ -43,3 +43,7 @@ composition. Built as part of a data analyst portfolio project.
 Potential extensions: correlate genre with rating, deeper time-series
 analysis by content type, or compare international vs. domestic content
 growth.
+
+- **TV-MA and TV-14 lead ratings for both Movies and TV Shows** — though
+  Movies span a wider ratings range (R, PG-13, PG, G), while TV Shows
+  cluster more tightly around mature/teen ratings.
